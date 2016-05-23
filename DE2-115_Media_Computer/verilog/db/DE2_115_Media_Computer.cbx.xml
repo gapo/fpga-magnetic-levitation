@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="DE2_115_Media_Computer">
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_Alpha_Blending:alpha_blending|altera_up_video_alpha_blender_normal:alpha_blender|lpm_mult:b_times_one_minus_alpha" CBX_FILE_NAME="mult_0dn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_Alpha_Blending:alpha_blending|altera_up_video_alpha_blender_normal:alpha_blender|lpm_mult:r_times_one_minus_alpha" CBX_FILE_NAME="mult_0dn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_mult_cell:the_nios_system_CPU_mult_cell|altera_mult_add:the_altmult_add_part_1|altera_mult_add_q1u2:auto_generated|altera_mult_add_rtl:altera_mult_add_rtl1|ama_multiplier_function:multiplier_block|lpm_mult:Mult0" CBX_FILE_NAME="mult_jp01.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_Alpha_Blending:alpha_blending|altera_up_video_alpha_blender_normal:alpha_blender|lpm_mult:g_times_alpha" CBX_FILE_NAME="mult_0dn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_mult_cell:the_nios_system_CPU_mult_cell|altera_mult_add:the_altmult_add_part_1" CBX_FILE_NAME="altera_mult_add_q1u2.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_External_Clocks:external_clocks|altpll:DE_Clock_Generator_System" CBX_FILE_NAME="altpll_6rb2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|spi_controller:spiread|lpm_mult:Mult0" CBX_FILE_NAME="mult_5dt.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_mult_cell:the_nios_system_CPU_mult_cell|altera_mult_add:the_altmult_add_part_2" CBX_FILE_NAME="altera_mult_add_s1u2.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_VGA_Dual_Clock_FIFO:vga_dual_clock_fifo|dcfifo:Data_FIFO" CBX_FILE_NAME="dcfifo_nsj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|lpm_add_sub:Add17" CBX_FILE_NAME="add_sub_qvi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_ic_data_module:nios_system_CPU_ic_data|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_cjd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_ic_tag_module:nios_system_CPU_ic_tag|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_ieh1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_mult_cell:the_nios_system_CPU_mult_cell|altera_mult_add:the_altmult_add_part_2|altera_mult_add_s1u2:auto_generated|altera_mult_add_rtl:altera_mult_add_rtl1|ama_multiplier_function:multiplier_block|lpm_mult:Mult0" CBX_FILE_NAME="mult_j011.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_nios2_oci:the_nios_system_CPU_nios2_oci|nios_system_CPU_nios2_ocimem:the_nios_system_CPU_nios2_ocimem|nios_system_CPU_ociram_sp_ram_module:nios_system_CPU_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_2181.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_register_bank_b_module:nios_system_CPU_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_8gg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_VGA_Char_Buffer:vga_char_buffer|altera_up_video_128_character_rom:Character_Rom|altsyncram:character_data_rom" CBX_FILE_NAME="altsyncram_0ai1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|spi_controller:spiread|lpm_mult:Mult2" CBX_FILE_NAME="mult_5dt.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_Alpha_Blending:alpha_blending|altera_up_video_alpha_blender_normal:alpha_blender|lpm_mult:b_times_alpha" CBX_FILE_NAME="mult_0dn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_Alpha_Blending:alpha_blending|altera_up_video_alpha_blender_normal:alpha_blender|lpm_mult:r_times_alpha" CBX_FILE_NAME="mult_0dn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|pwm_output:gpio_pwm_controller|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_mgh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_Alpha_Blending:alpha_blending|altera_up_video_alpha_blender_normal:alpha_blender|lpm_mult:g_times_one_minus_alpha" CBX_FILE_NAME="mult_0dn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_nios2_oci:the_nios_system_CPU_nios2_oci|nios_system_CPU_nios2_oci_im:the_nios_system_CPU_nios2_oci_im|nios_system_CPU_traceram_lpm_dram_bdp_component_module:nios_system_CPU_traceram_lpm_dram_bdp_component|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_0a02.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_CPU:cpu|nios_system_CPU_register_bank_a_module:nios_system_CPU_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_7gg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_JTAG_UART:jtag_uart|nios_system_JTAG_UART_scfifo_w:the_nios_system_JTAG_UART_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_VGA_Char_Buffer:vga_char_buffer|altsyncram:Char_Buffer_Memory" CBX_FILE_NAME="altsyncram_m672.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_External_Clocks:external_clocks|altpll:DE_Clock_Generator_Audio" CBX_FILE_NAME="altpll_vpb2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_JTAG_UART:jtag_uart|nios_system_JTAG_UART_scfifo_r:the_nios_system_JTAG_UART_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|DE2_115_Media_Computer|nios_system:NiosII|nios_system_VGA_Pixel_Buffer:vga_pixel_buffer|scfifo:Image_Buffer" CBX_FILE_NAME="scfifo_h4a1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
